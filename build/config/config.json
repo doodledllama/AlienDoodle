@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7092eA580EeC3cc26A471Fa205528B12B7bB1Cb6",
+  "SCAN_LINK": "https://snowtrace.io/token/0x7092ea580eec3cc26a471fa205528b12b7bb1cb6",
+  "NETWORK": {
+    "NAME": "Avalanche",
+    "SYMBOL": "AVAX",
+    "ID": 43114
+  },
+  "NFT_NAME": "Alien Doodle",
+  "SYMBOL": "AD",
+  "MAX_SUPPLY": 444,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Campfire",
+  "MARKETPLACE_LINK": "https://campfire.exchange/collections/0x7092ea580eec3cc26a471fa205528b12b7bb1cb6/minting",
+  "SHOW_BACKGROUND": true
+}
